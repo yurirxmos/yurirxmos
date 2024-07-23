@@ -1,8 +1,8 @@
-<h3 align="left">👨‍💻 Hi, Welcome to my Git</h3>
+<h3 align="center">🐲 Welcome to my git little dragon ... 🐲</h3>
 
 ###
 
-<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=04CF16&width=435&lines=Desenvolvedor+Front-End;Desenvolvedor+Back-End+;Desenvolvedor+Full-Stack+)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1500&lines=Desenvolvedor+Front-End;Desenvolvedor+Back-End+;Desenvolvedor+Full-Stack+)](https://git.io/typing-svg)
 
 ###
 
@@ -22,11 +22,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+
+  <img align="right" height="130" src="https://media.tenor.com/D6mWe50lEJ4AAAAi/bravo-bravo-supermarket.gif"  />
 </div>
 
 ###
 
-<img align="right" height="130" src="https://media.tenor.com/D6mWe50lEJ4AAAAi/bravo-bravo-supermarket.gif"  />
+
 
 ###
 
@@ -35,11 +37,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yurirxmos/yurirxmos/output/snake.svg" alt="Snake animation" />
 
 ###
