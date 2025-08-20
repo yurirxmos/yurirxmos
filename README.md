@@ -1,4 +1,4 @@
-<h3 align="center">hello, lil dragon!</h3>
+<h3 align="left"><> hello, little dragon! </></h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/yurirxmos/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
@@ -50,15 +50,5 @@
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yurirxmos/yurirxmos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yurirxmos/yurirxmos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yurirxmos/yurirxmos/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
