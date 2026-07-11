@@ -6,8 +6,6 @@
   />
 </p>
 
-<h1 align="center">Yuri Ramos</h1>
-
 <p align="center">
   Software developer building simple, useful and well-crafted digital products.
 </p>
