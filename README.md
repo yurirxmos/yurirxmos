@@ -1,12 +1,4 @@
 <p align="center">
-  <img
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVjb3c0YzY2bHpmeDdtcGx2cnk4ZDNzeTZqazNsYjc2MnBmM3d5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/afOc4SKNJBwPu/giphy.gif"
-    alt="Toothless"
-    width="520"
-  />
-</p>
-
-<p align="center">
   Software developer building simple, useful and well-crafted digital products.
 </p>
 
